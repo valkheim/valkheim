@@ -18,5 +18,7 @@
     <a href="https://tryhackme.com/p/valkheim" target="_blank">tryhackme.com</a>
     &nbsp;
     <a href="https://app.hackthebox.eu/profile/37481" target="_blank">hackthebox.eu</a>
+    &nbsp;
+    <a href="https://cryptohack.org/user/valkheim/" target="_blank">cryptohack.org</a>
 </p>
 
